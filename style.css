@@ -910,24 +910,24 @@ button:hover{
     /* background-color: gray; */
     border-radius: 50%;
     margin: 10px 0;
-    background-image: url(./images/profile.jpg);
+    /* background-image: url(./images/profile.jpg); */
     background-size: cover;
 }
 #page8 #box #top .photo .photo-back h1{
     font-family: druk;
-    font-size: 4.5vw;
+    font-size: 3vw;
     line-height: 1;
     text-transform: capitalize;
     opacity: .8;
 }
 #page8 #box #top .photo .photo-back h3{
-    font-size: 1.5vw;
+    font-size: 1vw;
     line-height: 1;
     font-family: gilroy;
     opacity: .8;
 }
 #page8 #box #top .photo .photo-back p{
-    font-size: 2vw;
+    font-size: 1vw;
     font-family: gilroy;
     padding: 20px 0;
     font-weight: bold;
